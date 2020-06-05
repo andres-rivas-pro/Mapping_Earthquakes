@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-### Deployed Map URL: https://github.com/raven-rivas/Mapping_Earthquakes/blob/master/Earthquake_Challenge/index.html
+### Deployed Map URL:
 
 Traverse and retrieve GeoJSON data to populate an interactive geographical map about earthquakes and tectonic plates using JavaScript,leaflet.js libraries as well as Mapbox API.
 
