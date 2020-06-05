@@ -30,6 +30,7 @@ The purpose of this project is to visually show the differences between the magn
 * Render maps on a server and deploy on GitHub Pages.
 
 Codes
+
 [HTML File](https://github.com/raven-rivas/Mapping_Earthquakes/blob/master/Earthquake_Challenge/index.html)
 
 [JavaScript File](https://github.com/raven-rivas/Mapping_Earthquakes/blob/master/Earthquake_Challenge/static/js/logic.js)
